@@ -1,0 +1,3 @@
+1.Extract Cms database.
+2.For extracting go to browser and type "localhost/phpmyadmin/" 
+3.ckick on extract and choose cms.sql file and click ok
